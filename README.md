@@ -1,2 +1,2 @@
 # ideas2U
-Repositorio de pruebas y aprendizaje
+Repositorio de pruebas de concepto y aprendizaje
