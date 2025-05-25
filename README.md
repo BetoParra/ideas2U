@@ -1,2 +1,2 @@
 # ideas2U
-Repositorio de pruebas de concepto y aprendizaje
+Proof of Concept and learning repository
